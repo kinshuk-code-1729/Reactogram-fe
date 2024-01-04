@@ -2,6 +2,7 @@ import React from 'react'
 import './Login.css'
 import socialDesktop from '../Images/social-desktop.png'
 import socialMobile from '../Images/social-mobile.png'
+import { Link } from 'react-router-dom'
 
 const SignUp = () => {
   return (
@@ -16,9 +17,10 @@ const SignUp = () => {
                 <div className="card-body px-5">
                     <h4 className="card-title text-center mt-3 fw-bold"><b>Sign Up</b></h4>
                     <form>
-                        <input type="text" className="p-2 form-control input-bg mt-4 mb-2" placeholder="Phone" />
-                        <input type="email" className="p-2 form-control input-bg mt-4 mb-2" placeholder="Email" />
-                        <input type="password" className="p-2 form-control input-bg mb-2" placeholder="Password" />
+                        <input type="text" className="p-2 form-control input-bg mt-4 mb-2" placeholder='Phone' />
+                        <input type="email" className="p-2 form-control input-bg mb-2" placeholder='Email' />
+                        <input type="text" className="p-2 form-control input-bg mb-2" placeholder='Full Name' />
+                        <input type="password" className="p-2 form-control input-bg mb-2" placeholder='Password' />
                         <div className="d-grid mt-3">
                             <button className="custom-btn custom-btn-blue">Sign Up</button>
                         </div>
@@ -30,7 +32,7 @@ const SignUp = () => {
                         <div className="mt-3 mb-5 d-grid">
                         <button className="custom-btn custom-btn-white">
                             <span className="text-muted fs-6">Already have an account ? </span>
-                            <span className="ms-1 text-info fw-bold">Log In</span>
+                            <Link to="/login" className="ms-1 text-info fw-bold">Log In</Link>
                         </button>
                         </div>
                     </form>

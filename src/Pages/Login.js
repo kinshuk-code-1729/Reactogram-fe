@@ -1,6 +1,7 @@
 import './Login.css';
 import socialDesktop from '../Images/social-desktop.png'
 import socialMobile from '../Images/social-mobile.png'
+import { Link } from 'react-router-dom';
 
 const Login = () => {
     return (
@@ -28,7 +29,7 @@ const Login = () => {
                                 <div className="mt-3 mb-5 d-grid">
                                 <button className="custom-btn custom-btn-white">
                                     <span className="text-muted fs-6">Don't have an account ? </span>
-                                    <span className="ms-1 text-info fw-bold">Sign Up</span>
+                                    <Link to="/signup" className="ms-1 text-info fw-bold">Sign Up</Link>
                                 </button>
                                 </div>
                             </form>
