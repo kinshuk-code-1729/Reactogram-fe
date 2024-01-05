@@ -1,11 +1,13 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
-// import Login from './Pages/Login';
 import SignUp from './Pages/SignUp';
 import Login from './Pages/Login';
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
+    <div>
+      <Navbar />
     <Router>
       <Routes>
         <Route exact path="/" element={<Login />}></Route>
@@ -13,6 +15,7 @@ function App() {
         <Route exact path="/signup" element={<SignUp />}></Route>
       </Routes>
     </Router>
+    </div>
   );
 }
 
