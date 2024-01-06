@@ -12,9 +12,9 @@ const Navbar = () => {
                     </a>
                     <form className="d-flex" role="search">
                         <input className="searchbox form-control me-2 text-muted" type="search" placeholder="Search" />
-                        <a class="nav-link text-dark fs-5" href="#"><i class="fa-solid fa-house"></i></a>
-                        <a class="nav-link text-dark fs-5" href="#"><i class="fa-regular fa-heart"></i></a>
-                        <a class="nav-link text-dark fs-5" href="#"><i class="fa-solid fa-circle"></i></a>
+                        <a class="nav-link text-dark fs-5 px-2" href="#"><i class="fa-solid fa-house"></i></a>
+                        <a class="nav-link text-dark fs-5 px-2" href="#"><i class="fa-regular fa-heart"></i></a>
+                        <a class="nav-link text-dark fs-5 px-2" href="#"><i class="fa-solid fa-circle"></i></a>
                     </form>
                 </div>
             </nav>
