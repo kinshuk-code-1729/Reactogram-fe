@@ -5,6 +5,11 @@
 - _Mern Stack used_.
 ![image](https://github.com/kinshuk-code-1729/Reactogram-fe/assets/90320839/799a8ca9-4083-4708-b58c-818414a72215)
 
+**MERN Stack is a compilation of four different technologies that work together to develop dynamic web apps and websites. It is a contraction for four different technologies as mentioned below:**
+- **M** - _MongoDB_
+- **E** - _ExpressJS_
+- **R** - _ReactJS_
+- **N** - _NodeJS_
 
 <!-- Other users can view, like, comment on different posts
 User can sign up.
