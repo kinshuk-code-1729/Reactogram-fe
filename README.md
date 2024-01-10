@@ -1,10 +1,10 @@
 # ⚛️ Reactogram : _React JS Based Instagram Clone Application_
+**_Reactogram app is an instagram clone application where users can register, login and create post with images._**
+
 ## 🌟 Technology Stack :
 - _Mern Stack used_.
 ![image](https://github.com/kinshuk-code-1729/Reactogram-fe/assets/90320839/799a8ca9-4083-4708-b58c-818414a72215)
 
-
-**_Reactogram app is an instagram clone application where users can register, login and create post with images._**
 
 <!-- Other users can view, like, comment on different posts
 User can sign up.
