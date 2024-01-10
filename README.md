@@ -1,6 +1,6 @@
-# Reactogram : _React JS Based Instagram Clone Application_
-## Technology Stack :
-Mern Stack used.
+# ⚛️ Reactogram : _React JS Based Instagram Clone Application_
+## 🌟 Technology Stack :
+- _Mern Stack used_.
 ![image](https://github.com/kinshuk-code-1729/Reactogram-fe/assets/90320839/799a8ca9-4083-4708-b58c-818414a72215)
 
 
