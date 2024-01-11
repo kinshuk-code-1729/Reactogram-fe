@@ -5,6 +5,8 @@
 - _Mern Stack used_.
 ![image](https://github.com/kinshuk-code-1729/Reactogram-fe/assets/90320839/799a8ca9-4083-4708-b58c-818414a72215)
 
+> The MERN stack is a web development framework made up of the stack of MongoDB, Express.js, React.js, and Nodejs. It is one of the several variants of the MEAN stack.
+
 **MERN Stack is a compilation of four different technologies that work together to develop dynamic web apps and websites. It is a contraction for four different technologies as mentioned below:**
 - **M** - _MongoDB_
 - **E** - _ExpressJS_
