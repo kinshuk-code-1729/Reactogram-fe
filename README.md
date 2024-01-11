@@ -8,10 +8,10 @@
 > _The_ **[MERN stack](https://www.mongodb.com/mern-stack)** _is a web development framework made up of the stack of MongoDB, Express.js, React.js, and Nodejs. It is one of the several variants of the_ **[MEAN stack](https://www.mongodb.com/mean-stack).**
 
 **MERN Stack is a compilation of four different technologies that work together to develop dynamic web apps and websites. It is a contraction for four different technologies as mentioned below:**
-- **M** - _MongoDB_
-- **E** - _ExpressJS_
-- **R** - _ReactJS_
-- **N** - _NodeJS_
+- **M** - _MongoDB_ : **_Non Relational Database._**
+- **E** - _ExpressJS_ : **_Node.js web server._**
+- **R** - _ReactJS_ : **_JavaScript Frontend Framework._**
+- **N** - _NodeJS_ : **_JavaScript Web Server._**
 
 <!-- Other users can view, like, comment on different posts
 User can sign up.
