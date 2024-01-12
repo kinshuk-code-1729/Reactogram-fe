@@ -13,16 +13,16 @@
 - **R** - _ReactJS_ : **_JavaScript Frontend Framework._**
 - **N** - _NodeJS_ : **_JavaScript Web Server._**
 
-## Features of Reactogram
+## 👀 Features of Reactogram
 - **Other users can _view_, _like_, _comment_ on different posts**
-- **User can sign up.**
-- **User can login with credentials.**
-- **User can add new post.**
-- **User will upload post image.**
-- **User can Like any other user post.**
-- **User can comment on any other user's post.**
-- **User can delete their own post.**
-- **User can see details of any post.**
-- **User can see all comments on any post.**
-- **User can see all thier posts.**
-- **User can edit profile.**
+- **User can _sign up_.**
+- **User can _login_ with credentials.**
+- **User can add _new post_.**
+- **User will upload _post image_.**
+- **User can _Like_ any other user post.**
+- **User can _comment_ on any other user's post.**
+- **User can _delete_ their own post.**
+- **User can see _details_ of any post.**
+- **User can see all _comments_ on any post.**
+- **User can see all their _posts_.**
+- **User can _edit profile_.**
